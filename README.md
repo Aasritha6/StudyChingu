@@ -51,6 +51,8 @@ Your browser will open automatically at http://localhost:8501
 
 No additional setup needed — API key is included in the project.
 
+**Live Demo:** https://studychingu.streamlit.app/
+
 ---
 
 ## Example Input / Output
