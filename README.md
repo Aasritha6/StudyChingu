@@ -50,7 +50,7 @@ streamlit run source_code/app.py
 
 Your browser will open automatically at `http://localhost:8501`
 
-**Live Demo:** https://your-app-link.streamlit.app
+**Live Demo:** (https://studychingu.streamlit.app/)
 
 ---
 
